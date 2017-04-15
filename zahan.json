@@ -1,0 +1,37 @@
+{
+	"abs": {
+		"name": "Abs",
+		"version": "n/a",
+		"url": "https://raw.githubusercontent.com/AchaeaZahan/Nexus/master/Abs.nxs",
+		"description": "Abs",
+		"author": "Zahan"
+	},
+	"cnote": {
+		"name": "Cnote",
+		"version": "n/a",
+		"url": "https://raw.githubusercontent.com/AchaeaZahan/Nexus/master/Cnote.nxs",
+		"description": "Cnote",
+		"author": "Zahan"
+	},
+	"keepalive": {
+		"name": "Keepalive",
+		"version": "n/a",
+		"url": "https://raw.githubusercontent.com/AchaeaZahan/Nexus/master/Keepalive.nxs",
+		"description": "Keepalive",
+		"author": "Zahan"
+	},
+	"lootpet": {
+		"name": "Lootpet",
+		"version": "n/a",
+		"url": "https://raw.githubusercontent.com/AchaeaZahan/Nexus/master/Lootpet.nxs",
+		"description": "Lootpet",
+		"author": "Zahan"
+	},
+	"mapmod": {
+		"name": "Mapmod",
+		"version": "n/a",
+		"url": "https://raw.githubusercontent.com/AchaeaZahan/Nexus/master/Mapmod.nxs",
+		"description": "Mapmod",
+		"author": "Zahan"
+	}
+}
