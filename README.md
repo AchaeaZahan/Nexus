@@ -1,4 +1,4 @@
-# [Click here to go to my nexus packages webpage!](http://achaeazahan.github.io)
+# [Click here to go to my nexus packages gitpage!](http://achaeazahan.github.io)
 How to install packages from back here:
 1)  Click the link of the package you want to install.
 
